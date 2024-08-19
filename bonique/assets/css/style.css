@@ -10071,12 +10071,3 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   background-image: url(..//img/banner7.webp);
   background-size: 97%;
 }
-.faq-client-say-area {
-  margin-bottom: 95px;
-  height: 200px;
-  background-image: url(..//img/banner7.webp);
-  background-size: 50%;
-  background-position-x:100%;
-  background-position-y: 40%;
-  background-repeat: no-repeat;
-}
