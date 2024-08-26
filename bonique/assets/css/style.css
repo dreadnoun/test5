@@ -10060,8 +10060,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .img-logo{
-  width: 140px;
-  height: 70px;
+  width: 150px;
+  height: 80px;
   scale: 50px;
 }
 .spanchik{
@@ -10070,4 +10070,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .bonique_messages_area{
   background-image: url(..//img/banner7.webp);
   background-size: 97%;
+}
+.sub-menu{
+  padding: 0px 20px;
 }

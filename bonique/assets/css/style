@@ -8242,3 +8242,9 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /*privacy policy css end*/
 
 /*# sourceMappingURL=style.map */
+
+
+
+ul .sub_menu pages{
+  padding: 18px 20px;
+}
